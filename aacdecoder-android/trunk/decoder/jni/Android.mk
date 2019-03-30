@@ -16,6 +16,9 @@ include $(mydir)/aac-decoder/Android.mk
 include $(mydir)/opencore-aacdec/Android.mk
 include $(mydir)/opencore-mp3dec/Android.mk
 
+
+#LOCAL_LDFLAGS += --no-warn-shared-textrel
+LOCAL_LDFLAGS += -fPIC
 dump:
 	$(warning $(modules-dump-database))
 	$(warning $(dump-src-file-tags))
