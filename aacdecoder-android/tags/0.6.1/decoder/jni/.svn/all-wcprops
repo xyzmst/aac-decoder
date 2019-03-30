@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/20/tags/0.6.1/decoder/jni
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/tags/0.6.1/decoder/jni/Makefile
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/tags/0.6.1/decoder/jni/Android.mk
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/tags/0.6.1/decoder/jni/Application.mk
+END

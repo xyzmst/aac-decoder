@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder
+END
+PlayerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/PlayerCallback.java
+END
+BufferReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/BufferReader.java
+END
+MP3Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/MP3Player.java
+END
+FlashAACInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/FlashAACInputStream.java
+END
+FlashAACPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/FlashAACPlayer.java
+END
+IcyInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/IcyInputStream.java
+END
+AACPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/AACPlayer.java
+END
+PCMFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/PCMFeed.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/Decoder.java
+END
+MultiPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/tags/0.6/decoder/src/com/spoledge/aacdecoder/MultiPlayer.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/tags/0.5.1/decoder/src/com/spoledge/aacdecoder
+END
+AACPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9/tags/0.5.1/decoder/src/com/spoledge/aacdecoder/AACPlayer.java
+END
+PCMFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/tags/0.5.1/decoder/src/com/spoledge/aacdecoder/PCMFeed.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/tags/0.5.1/decoder/src/com/spoledge/aacdecoder/Decoder.java
+END
+PlayerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/tags/0.5.1/decoder/src/com/spoledge/aacdecoder/PlayerCallback.java
+END
+BufferReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/tags/0.5.1/decoder/src/com/spoledge/aacdecoder/BufferReader.java
+END

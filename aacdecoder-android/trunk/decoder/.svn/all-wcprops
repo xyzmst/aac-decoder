@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/44/trunk/decoder
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/29/trunk/decoder/build.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/trunk/decoder/AndroidManifest.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/44/trunk/decoder/pom.xml
+END

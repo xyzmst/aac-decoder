@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/50/tags/0.8
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/50/tags/0.8/COPYING.LESSER
+END
+RELEASE-NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/50/tags/0.8/RELEASE-NOTES.txt
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/50/tags/0.8/VERSION
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/50/tags/0.8/COPYING
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/50/tags/0.8/pom.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/50/tags/0.8/README
+END
+sample.ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/50/tags/0.8/sample.ant.properties
+END
+MERGE-HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/50/tags/0.8/MERGE-HISTORY
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/50/tags/0.8/build.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/50/tags/0.8/default.properties
+END
+makectags
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/50/tags/0.8/makectags
+END

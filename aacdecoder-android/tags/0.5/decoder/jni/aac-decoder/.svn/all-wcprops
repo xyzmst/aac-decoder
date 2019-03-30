@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder
+END
+aac-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder/aac-decoder.h
+END
+aac-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder/aac-common.h
+END
+aac-opencore-decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder/aac-opencore-decoder.c
+END
+decoder-opencore-aacdec.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder/decoder-opencore-aacdec.mk
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder/Android.mk
+END
+aac-decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/tags/0.5/decoder/jni/aac-decoder/aac-decoder.c
+END

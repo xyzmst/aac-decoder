@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/13/branches/opencore2009
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/branches/opencore2009/COPYING.LESSER
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/13/branches/opencore2009/VERSION
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/13/branches/opencore2009/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/branches/opencore2009/README
+END
+sample.ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/branches/opencore2009/sample.ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/13/branches/opencore2009/build.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13/branches/opencore2009/default.properties
+END
+makectags
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/13/branches/opencore2009/makectags
+END

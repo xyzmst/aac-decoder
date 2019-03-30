@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/20/tags/0.6.1
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/20/tags/0.6.1/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/20/tags/0.6.1/README
+END
+sample.ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/20/tags/0.6.1/sample.ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/20/tags/0.6.1/build.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/20/tags/0.6.1/default.properties
+END
+makectags
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/20/tags/0.6.1/makectags
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/20/tags/0.6.1/COPYING.LESSER
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/20/tags/0.6.1/VERSION
+END
