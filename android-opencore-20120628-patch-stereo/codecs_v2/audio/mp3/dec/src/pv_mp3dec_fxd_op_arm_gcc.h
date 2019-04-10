@@ -223,11 +223,10 @@ extern "C"
         register int32 z;
         register int32 y;
         register int32 ra = x;
-        asm volatile(
+        __asm__ __volatile__(
             "sub  %0, %2, %2, lsr #31\n\t"
             "eor  %1, %0, %0, asr #31"
-    : "=&r*i"(z),
-            "=&r*i"(y)
+    : "=&r*i"(z),"=&r*i"(y)
                     : "r"(ra));
 
         return (y);

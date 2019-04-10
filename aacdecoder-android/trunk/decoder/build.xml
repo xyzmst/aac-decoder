@@ -88,9 +88,10 @@
 	<target name="native" depends="java" description="Builds native libs">
 		<exec executable="${ndk.home}/ndk-build" failonerror="true">
 			<arg line="${make.options}"/>
+	
 		</exec>
 	</target>
-
+	<echo message="make.options = ${make.options}"/>
 
 	<target name="clean" description="Clears output directories">
 		<delete dir="${dist.dir}"/>

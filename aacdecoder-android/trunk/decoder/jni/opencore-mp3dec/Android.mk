@@ -91,5 +91,6 @@ LOCAL_COPY_HEADERS := \
 	include/pvmp3_decoder.h \
 	include/pvmp3_decoder_api.h \
 	include/pvmp3_audio_type_defs.h
-
+LOCAL_LDFLAGS += -fPIC
 include $(BUILD_STATIC_LIBRARY)
+#include $(BUILD_SHARED_LIBRARY)

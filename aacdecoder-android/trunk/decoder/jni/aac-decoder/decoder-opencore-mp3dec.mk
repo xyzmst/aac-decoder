@@ -12,6 +12,6 @@ LOCAL_C_INCLUDES 		:= $(OPENCORE_DIR)/include \
 LOCAL_C_INCLUDES 		:= $(OPENCORE_MP3)/include $(OPENCORE_MP3)/src $(LOCAL_PATH)/../opencore-mp3dec/oscl
 
 LOCAL_CFLAGS 			:= $(cflags_loglevels)
-
+LOCAL_LDFLAGS += -fPIC
 include $(BUILD_STATIC_LIBRARY)
 

@@ -12,6 +12,11 @@ LOCAL_C_INCLUDES 		:= $(OPENCORE_DIR)/include \
 LOCAL_C_INCLUDES 		:= $(OPENCORE_DIR)/include $(LOCAL_PATH)/../opencore-aacdec/oscl
 
 LOCAL_CFLAGS 			:= $(cflags_loglevels)
-
+LOCAL_LDLIBS 			:= -llog
+LOCAL_LDFLAGS += -fPIC
+#LOCAL_CFLAGS += -v -fPIC
 include $(BUILD_STATIC_LIBRARY)
+#include $(BUILD_SHARED_LIBRARY)
+
+$(warning "the value of OPENCORE_DIR is$(OPENCORE_DIR)" )
 

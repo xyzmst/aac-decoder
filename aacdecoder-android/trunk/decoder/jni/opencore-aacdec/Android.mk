@@ -197,5 +197,6 @@ LOCAL_COPY_HEADERS := \
  	include/e_tmp4audioobjecttype.h \
  	include/pv_audio_type_defs.h \
  	include/pvmp4audiodecoder_api.h
-
+LOCAL_LDFLAGS += -fPIC
 include $(BUILD_STATIC_LIBRARY)
+#include $(BUILD_SHARED_LIBRARY)
