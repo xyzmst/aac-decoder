@@ -41,19 +41,12 @@ LOCAL_SRC_FILES := \
 	src/pvmp3_stereo_proc.cpp \
 	src/pvmp3_tables.cpp
 
-ifeq ($(TARGET_ARCH),arm)
 LOCAL_SRC_FILES += \
 	src/asm/pvmp3_dct_16_gcc.s \
 	src/asm/pvmp3_dct_9_gcc.s \
 	src/asm/pvmp3_mdct_18_gcc.s \
 	src/asm/pvmp3_polyphase_filter_window_gcc.s
-else
-LOCAL_SRC_FILES += \
-	src/pvmp3_dct_16.cpp \
-	src/pvmp3_dct_9.cpp \
-	src/pvmp3_mdct_18.cpp \
-	src/pvmp3_polyphase_filter_window.cpp
-endif
+
 
  	
 #src/../util/getactualaacconfig/src/getactualaacconfig.cpp
@@ -92,5 +85,12 @@ LOCAL_COPY_HEADERS := \
 	include/pvmp3_decoder_api.h \
 	include/pvmp3_audio_type_defs.h
 LOCAL_LDFLAGS += -fPIC
-include $(BUILD_STATIC_LIBRARY)
-#include $(BUILD_SHARED_LIBRARY)
+LOCAL_LDLIBS += -Wl,--no-warn-shared-textrel -fPIC
+
+#include $(BUILD_STATIC_LIBRARY)
+include $(BUILD_SHARED_LIBRARY)
+
+#$(warning "LOCAL_LDFLAGS ======= $(LOCAL_LDFLAGS)")
+#$(warning "LOCAL_CFLAGS ======= $(LOCAL_CFLAGS)")
+#$(warning "LOCAL_C_INCLUDES ======= $(LOCAL_C_INCLUDES)")
+$(warning "LOCAL_SRC_FILES ======= $(LOCAL_SRC_FILES)")

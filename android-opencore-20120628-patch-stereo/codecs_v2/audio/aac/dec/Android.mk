@@ -170,6 +170,6 @@ LOCAL_COPY_HEADERS := \
  	include/pv_audio_type_defs.h \
  	include/pvmp4audiodecoder_api.h
 
-include $(BUILD_STATIC_LIBRARY)
+#include $(BUILD_STATIC_LIBRARY)
 
-#include $(BUILD_SHARED_LIBRARY)
+include $(BUILD_SHARED_LIBRARY)

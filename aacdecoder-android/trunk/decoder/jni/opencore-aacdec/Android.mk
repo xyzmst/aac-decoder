@@ -162,6 +162,8 @@ PV_INCLUDES	:= $(PV_INCLUDES) \
 				$(PV_TOP)/oscl/oscl/osclmemory/src \
 				$(PV_TOP)/oscl/oscl/osclerror/src
 
+$(warning "PV_INCLUDES ============ $(PV_INCLUDES)")
+
 #$(PV_TOP)/codecs_v2/audio/aac/dec/util/getactualaacconfig/include
 
 
@@ -198,5 +200,8 @@ LOCAL_COPY_HEADERS := \
  	include/pv_audio_type_defs.h \
  	include/pvmp4audiodecoder_api.h
 LOCAL_LDFLAGS += -fPIC
-include $(BUILD_STATIC_LIBRARY)
-#include $(BUILD_SHARED_LIBRARY)
+ifneq ($(LOCAL_DISABLE_FATAL_LINKER_WARNINGS),true)
+  LOCAL_LDFLAGS += -Wl,--fatal-warnings
+endif
+#include $(BUILD_STATIC_LIBRARY)
+include $(BUILD_SHARED_LIBRARY)
